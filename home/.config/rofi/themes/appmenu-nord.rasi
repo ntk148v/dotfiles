@@ -1,0 +1,64 @@
+configuration {
+  show-icons: true;
+  font: "M+ 1m Regular 10";
+  display-run: " ";
+  display-drun: " ";
+  display-window: " ";
+  modi: "window,run,drun";
+}
+
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+* {
+  background-color: @background;
+  bg-alt: @background;
+  fg: @foreground;
+  nord-blue-light: @selected-normal-background;
+  nord-green: @selected-urgent-background;
+
+  border: 0;
+  lines: 12;
+  padding: 0;
+  margin: 0;
+  spacing: 0;
+}
+
+window {
+  width: 30%;
+  transparency: "real";
+}
+
+mainbox {
+  children: [inputbar, listview];
+}
+
+listview {
+  columns: 1;
+}
+
+element {
+  padding: 12;
+  orientation: vertical;
+  text-color: @fg;
+}
+
+element selected {
+  background-color: @bg-alt;
+  text-color: @nord-blue-light;
+}
+
+inputbar {
+  background-color: @background;
+  children: [prompt, entry];
+}
+
+prompt {
+  enabled: true;
+  font: "Hasklug Nerd Font 12";
+  padding: 12 0 0 12;
+  text-color: @nord-green;
+}
+
+entry {
+  padding: 12;
+  text-color: @nord-green;
+}
