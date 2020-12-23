@@ -20,6 +20,7 @@ This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 - Pywal.
 - Dunst.
 - Betterlockscreen.
+- Fonts?
 
 ## Installation
 
