@@ -1,12 +1,25 @@
 # Dotfiles - Environment Configuration
 
 - [Dotfiles - Environment Configuration](#dotfiles---environment-configuration)
+  - [Components and tools](#components-and-tools)
   - [Installation](#installation)
 
 This project is a container for alias, configuration files and scripts with
 which my standard operating environment can be replicated.
 
 This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
+
+## Components and tools
+
+- i3wm.
+- ZSH shell.
+- [Neo]vim.
+- Polybar.
+- Tilix terminal.
+- Compton/picom.
+- Pywal.
+- Dunst.
+- Betterlockscreen.
 
 ## Installation
 
