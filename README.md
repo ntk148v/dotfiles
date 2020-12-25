@@ -1,6 +1,7 @@
 # Dotfiles - Environment Configuration
 
 - [Dotfiles - Environment Configuration](#dotfiles---environment-configuration)
+  - [Screenshots](#screenshots)
   - [Components and tools](#components-and-tools)
   - [Installation](#installation)
 
@@ -9,6 +10,7 @@ which my standard operating environment can be replicated.
 
 This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 
+## Screenshots
 ## Components and tools
 
 - **i3wm**: I use the [i3 fork](https://github.com/ntk148v/i3) with rounded corner feature.
