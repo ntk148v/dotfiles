@@ -17,7 +17,7 @@ This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 - **Polybar**: A fast and easy-to-use status [bar](https://github.com/polybar/polybar).
 - **Tilix terminal**: A [tiling terminal emulator](https://github.com/gnunn1/tilix) for Linux using GTK+ 3.
 - **Compton/picom**: A lightweight [compositor](https://github.com/yshui/picom) for X11.
-- **Pywal**: https://github.com/yshui/picom.
+- **Pywal**: Generate amd change color-scheme on the fly with [pywal](https://github.com/dylanaraps/pywal).
 - Dunst.
 - Betterlockscreen.
 - **Fonts**: Most of used fonts are installed by using [nerd-fonts](https://github.com/ryanoasis/nerd-fonts).
