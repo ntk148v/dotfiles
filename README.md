@@ -16,7 +16,7 @@ This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 - **[Neo]vim**: [neovim](https://github.com/neovim/neovim), the config may work with vim 8+ as well but I can't say for sure.
 - **Polybar**: A fast and easy-to-use status [bar](https://github.com/polybar/polybar).
 - **Tilix terminal**: A [tiling terminal emulator](https://github.com/gnunn1/tilix) for Linux using GTK+ 3.
-- Compton/picom.
+- **Compton/picom**: A lightweight [compositor](https://github.com/yshui/picom) for X11.
 - Pywal.
 - Dunst.
 - Betterlockscreen.
