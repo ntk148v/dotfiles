@@ -19,7 +19,7 @@ This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 - **Compton/picom**: A lightweight [compositor](https://github.com/yshui/picom) for X11.
 - **Pywal**: Generate amd change color-scheme on the fly with [pywal](https://github.com/dylanaraps/pywal).
 - **Dunst**: Lightweight and customizable [notification daemon](https://github.com/dunst-project/dunst).
-- Betterlockscreen.
+- **Betterlockscreen**.
 - **Fonts**: Most of used fonts are installed by using [nerd-fonts](https://github.com/ryanoasis/nerd-fonts).
   - [Input](https://input.fontbureau.com/) (Addition font).
 
