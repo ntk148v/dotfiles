@@ -13,7 +13,7 @@ This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 
 - **i3wm**: I use the [i3 fork](https://github.com/ntk148v/i3) with rounded corner feature.
 - **ZSH shell**: ZSH shell with [oh-my-zsh framwork](https://github.com/ohmyzsh/ohmyzsh).
-- **[Neo]vim**.
+- **[Neo]vim**: [neovim](https://github.com/neovim/neovim), the config may work with vim 8+ as well but I can't say for sure.
 - Polybar.
 - Tilix terminal.
 - Compton/picom.
