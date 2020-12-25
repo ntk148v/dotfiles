@@ -12,7 +12,7 @@ This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 
 ## Screenshots
 
-![](./screenshots/Screenshot%20from%202020-12-25%2010-07-47.png)
+![](./screenshots/screenshot.png)
 
 ## Components and tools
 
