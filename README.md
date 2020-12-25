@@ -20,7 +20,7 @@ This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 - Pywal.
 - Dunst.
 - Betterlockscreen.
-- Fonts: Most of used fonts are installed by using [nerd-fonts](https://github.com/ryanoasis/nerd-fonts).
+- **Fonts**: Most of used fonts are installed by using [nerd-fonts](https://github.com/ryanoasis/nerd-fonts).
 
 ## Installation
 
