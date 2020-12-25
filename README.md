@@ -21,7 +21,7 @@ This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 - Dunst.
 - Betterlockscreen.
 - **Fonts**: Most of used fonts are installed by using [nerd-fonts](https://github.com/ryanoasis/nerd-fonts).
-  - [Input](https://input.fontbureau.com/).
+  - [Input](https://input.fontbureau.com/) (Addition font).
 
 ## Installation
 
