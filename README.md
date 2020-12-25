@@ -11,6 +11,9 @@ which my standard operating environment can be replicated.
 This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 
 ## Screenshots
+
+![](./screenshoots/Screenshot%20from%202020-12-25%2010-07-47.png)
+
 ## Components and tools
 
 - **i3wm**: I use the [i3 fork](https://github.com/ntk148v/i3) with rounded corner feature.
