@@ -15,7 +15,7 @@ This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 - **ZSH shell**: ZSH shell with [oh-my-zsh framwork](https://github.com/ohmyzsh/ohmyzsh).
 - **[Neo]vim**: [neovim](https://github.com/neovim/neovim), the config may work with vim 8+ as well but I can't say for sure.
 - **Polybar**: A fast and easy-to-use status [bar](https://github.com/polybar/polybar).
-- Tilix terminal.
+- **Tilix terminal**.
 - Compton/picom.
 - Pywal.
 - Dunst.
