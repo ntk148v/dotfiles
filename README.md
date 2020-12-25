@@ -6,7 +6,7 @@
   - [Installation](#installation)
 
 This project is a container for alias, configuration files and scripts with
-which my standard operating environment can be replicated.
+which my standard operating environment can be replicated (with modification, ofc).
 
 This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 
