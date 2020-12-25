@@ -11,7 +11,7 @@ This repostiory is managed by [dotboss](https://github.com/ntk148v/dotboss).
 
 ## Components and tools
 
-- i3wm.
+- **i3wm**: I use the [i3 fork](https://github.com/ntk148v/i3) with rounded corner feature.
 - ZSH shell.
 - [Neo]vim.
 - Polybar.
