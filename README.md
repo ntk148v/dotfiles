@@ -1,6 +1,6 @@
-# Dotfiles - Environment Configuration
+# Dotfiles - Environment Configurations
 
-- [Dotfiles - Environment Configuration](#dotfiles---environment-configuration)
+- [Dotfiles - Environment Configurations](#dotfiles---environment-configuration)
   - [Screenshots](#screenshots)
   - [Components and tools](#components-and-tools)
   - [Installation](#installation)
