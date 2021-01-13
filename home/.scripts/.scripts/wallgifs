@@ -1,0 +1,6 @@
+#!/bin/bash
+gif=$1
+killall -9 xwinwrap
+killall -9 gifview
+xwinwrap -g 1920x1080 -ov -ni -s -nf -- gifview -w WID $gif -a &
+xwinwrap -g 1920x1080+1920+0 -ov -ni -s -nf -- gifview -w WID $gif -a &

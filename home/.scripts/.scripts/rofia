@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Launch rofi with custom configuration
+rofi -sidebar-mode \
+-modi run,drun,window,ssh \
+-show drun \
+-display-drun "Search " \
+-display-ssh "SSH " \
+-display-run "Run " \
+-display-window "Workspace " \
+-hide-scrollbar true \
+-show-icons \
+-columns 3 \
+-font "Noto Sans 9" \
+-padding 20 \
+-width 60
+
+# Theming help
+# color window = background, border, separator
+# color normal = background, foreground, background-alt, highlight-background, highlight-foreground
+# color active = background, foreground, background-alt, highlight-background, highlight-foreground
+# color urgent = background, foreground, background-alt, highlight-background, highlight-foreground

@@ -32,6 +32,7 @@ Plug 'mileszs/ack.vim'
 Plug 'flrnd/candid.vim'
 Plug 'connorholyday/vim-snazzy'
 Plug 'pineapplegiant/spaceduck'
+Plug 'huytd/vim-espresso-tutti'
 call plug#end()
 
 filetype plugin indent on
