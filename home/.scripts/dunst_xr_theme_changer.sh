@@ -106,7 +106,7 @@ xrdb_get () {
 # Attributes dictionary. Add or remove attributes (see header for more info)
 #
 declare -A theme_attr_dict=(
-    ["global-font"]="$(xrdb_get 'font' 'Monospace') $(xrdb_get 'font_size' '11')"
+    #["global-font"]="$(xrdb_get 'font' 'Monospace') $(xrdb_get 'font_size' '11')"
     ["global-frame_width"]="$(xrdb_get 'border_width' '1')"
     ["global-frame_color"]="\"$(xrdb_get 'color8' '#65737e')\""
 
