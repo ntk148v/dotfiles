@@ -147,8 +147,6 @@ export PATH=$PATH:$HOME/.cargo/bin
 bindkey '^F' autosuggest-accept
 bindkey '^E' autosuggest-execute
 
-export BAT_THEME='TwoDark'
-
 # spaceship
 if [ $ZSH_THEME = "spaceship" ]; then
     source ~/.spaceship_cfg
