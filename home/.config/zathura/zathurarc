@@ -29,4 +29,4 @@ set statusbar-h-padding "50"
 set statusbar-v-padding "50"
 set guioptions ""
 
-set font "M+ 1m regular 10"
+set font "Input Mono Condensed Regular 10"

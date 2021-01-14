@@ -1,6 +1,6 @@
 configuration {
   show-icons: true;
-  font: "M+ 1m Regular 10";
+  font: "Input Mono Condensed Regular 10";
   display-run: " ";
   display-drun: " ";
   display-window: " ";

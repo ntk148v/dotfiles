@@ -270,7 +270,7 @@ format-background = ${colors.background}
 ###############################################################################
 [module/time]
 type = internal/date
-interval = 5
+interval = 1
 time ="%%{F#af3a03}%%{T2}%%{T-}%%{F-}%I:%M %p"
 label = %time%
 format=<label>
