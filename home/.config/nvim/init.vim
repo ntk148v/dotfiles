@@ -22,17 +22,18 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --no-bash' }
 Plug 'junegunn/fzf.vim'
 Plug 'RRethy/vim-hexokinase', { 'do': 'make hexokinase' }
 Plug 'sonph/onehalf', {'rtp': 'vim/'}
-Plug 'tyrannicaltoucan/vim-quantum'
-Plug 'ntk148v/wal.vim'
-Plug 'ntk148v/vim-horizon'
-Plug 'andreypopp/vim-colors-plain'
 Plug 'fatih/vim-go', {'do': ':GoUpdateBinaries'}
 Plug 'arcticicestudio/nord-vim'
 Plug 'mileszs/ack.vim'
 Plug 'flrnd/candid.vim'
+Plug 'ntk148v/wal.vim'
+Plug 'ntk148v/vim-horizon'
+Plug 'andreypopp/vim-colors-plain'
+Plug 'tyrannicaltoucan/vim-quantum'
 Plug 'connorholyday/vim-snazzy'
 Plug 'pineapplegiant/spaceduck'
 Plug 'huytd/vim-espresso-tutti'
+Plug 'lifepillar/vim-colortemplate'
 call plug#end()
 
 filetype plugin indent on
