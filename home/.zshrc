@@ -158,13 +158,13 @@ fi
 # prompt pure
 
 # typewritten
-#fpath+=$HOME/.zsh/typewritten
-#autoload -U promptinit; promptinit
-#prompt typewritten
-#TYPEWRITTEN_RELATIVE_PATH="adaptive"
-#TYPEWRITTEN_CURSOR="block"
+fpath+=$HOME/.zsh/typewritten
+autoload -U promptinit; promptinit
+prompt typewritten
+TYPEWRITTEN_RELATIVE_PATH="adaptive"
+TYPEWRITTEN_CURSOR="block"
 
-eval "$(starship init zsh)"
+# eval "$(starship init zsh)"
 
 # Import colorscheme from 'wal' asynchronously
 # &   # Run the process in the background.
