@@ -32,7 +32,6 @@ Plug 'andreypopp/vim-colors-plain'
 Plug 'tyrannicaltoucan/vim-quantum'
 Plug 'connorholyday/vim-snazzy'
 Plug 'pineapplegiant/spaceduck'
-Plug 'huytd/vim-espresso-tutti'
 Plug 'lifepillar/vim-colortemplate'
 call plug#end()
 
@@ -117,7 +116,6 @@ nnoremap <C-j> <C-d>
 
 set background=dark
 colo nord
-colo spaceduck
 
 if (&t_Co > 2 || has("gui_running")) && !exists("syntax_on")
   syntax on
@@ -294,7 +292,7 @@ function! LightLineFilename()
 endfunction
 
 let g:lightline = {
-      \ 'colorscheme': 'spaceduck',
+      \ 'colorscheme': 'nord',
       \ 'active': {
       \   'left': [ ['mode'], ['filename'] ],
       \   'right': [ [], ['cocstatus', 'lineinfo', 'icongitbranch'] ]
@@ -441,5 +439,5 @@ let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 let current_scheme = get(g:, 'colors_name', 'default')
 if (has("termguicolors") && current_scheme != "wal")
     set termguicolors
-    " source ~/.config/nvim/custom_wal.vim
+    source ~/.config/nvim/custom_wal.vim
 endif
