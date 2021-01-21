@@ -117,6 +117,7 @@ nnoremap <C-j> <C-d>
 
 set background=dark
 colo nord
+colo spaceduck
 
 if (&t_Co > 2 || has("gui_running")) && !exists("syntax_on")
   syntax on
@@ -293,7 +294,7 @@ function! LightLineFilename()
 endfunction
 
 let g:lightline = {
-      \ 'colorscheme': 'nord',
+      \ 'colorscheme': 'spaceduck',
       \ 'active': {
       \   'left': [ ['mode'], ['filename'] ],
       \   'right': [ [], ['cocstatus', 'lineinfo', 'icongitbranch'] ]
