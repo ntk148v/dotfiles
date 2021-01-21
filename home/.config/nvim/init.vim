@@ -441,5 +441,5 @@ let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 let current_scheme = get(g:, 'colors_name', 'default')
 if (has("termguicolors") && current_scheme != "wal")
     set termguicolors
-    source ~/.config/nvim/custom_wal.vim
+    " source ~/.config/nvim/custom_wal.vim
 endif
