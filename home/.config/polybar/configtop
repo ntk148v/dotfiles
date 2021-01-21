@@ -82,7 +82,7 @@ line-color = #f00
 
 border-right-size = 30
 border-left-size = 30
-border-top-size = 20
+border-top-size = 10
 border-color = #00000000
 
 padding-left = 0
