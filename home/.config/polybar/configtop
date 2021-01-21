@@ -38,11 +38,12 @@ format-margin =
 format-offset =
 
 [colors]
-foreground = ${xrdb:foreground}
-# background = ${xrdb:color7}
-background-alt = ${xrdb:color1}
-background = ${xrdb:background}
-# foreground = ${xrdb:color0}
+foreground = ${xrdb:background}
+# background-alt = ${xrdb:color1}
+# background-alt = ${xrdb:foreground}
+background-alt = #F08D7E
+# background = ${xrdb:background}
+background = #E2BAB1
 foreground-alt = ${xrdb:color2}
 
 fg1 = ${xrdb:color1}
@@ -201,7 +202,8 @@ label-mode-background = #FFBB00
 label-focused = %name%
 label-focused-background = ${colors.background}
 label-focused-foreground = ${colors.background-alt}
-label-focused-underline = #FEFEFE
+# label-focused-underline = #FEFEFE
+label-focused-underline = ${colors.background-alt}
 label-focused-padding = 3
 
 ; Available tokens:
