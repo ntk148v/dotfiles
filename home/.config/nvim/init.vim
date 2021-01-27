@@ -235,7 +235,8 @@ nnoremap <Leader>tn :tabn<CR>
 nnoremap <Leader>tp :tabp<CR>
 nnoremap <Leader>tc :tabe<CR>
 nnoremap <Leader>tx :tabclose<CR>
-
+" Buffers
+nnoremap <Leader>qq :bd<CR>
 " Open terminal
 nnoremap <Leader>at :call FloatTerm()<CR>
 " Open tig, yes TIG, A FLOATING TIGGGG!!!!!!
