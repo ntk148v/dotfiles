@@ -123,6 +123,7 @@ nnoremap <C-j> <C-d>
 
 set background=dark
 colo nord
+colo snazzy
 
 if (&t_Co > 2 || has("gui_running")) && !exists("syntax_on")
   syntax on
