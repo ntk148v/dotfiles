@@ -1,4 +1,4 @@
-#paleta < ~/.paleta/palettes/ayu-dark > ~/.cache/current-palette Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
@@ -188,7 +188,8 @@ POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+paleta < ~/.paleta/palettes/banana-blueberry-dark > ~/.cache/current-palette
+
 # Dotboss configs
 export DOT_REPO=https://github.com/ntk148v/dotfiles.git DOT_PARENT_DIR=/home/kiennt DOT_REPO_REMOTE=origin DOT_REPO_BRANCH=master DOT_REPO_DIR=/home/kiennt/dotfiles
-
-paleta < ~/.paleta/palettes/ayu-dark > ~/.cache/current-palette
