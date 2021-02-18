@@ -177,7 +177,7 @@ exec_always --no-startup-id picom
 exec_always --no-startup-id  bash ~/.scripts/dunst_xr_theme_changer.sh && \
     dunst -conf ~/.config/dunst/dunstrc_xr_colors &
 exec_always xrdb --merge ~/.Xresources
-exec_always hsetroot -solid "#E2BAB1"
-exec_always feh --bg-scale ~/Pictures/timon-klauser-3MAmj1ZKSZA-unsplash.jpg
+# exec_always hsetroot -solid "#E2BAB1"
+exec_always feh --bg-scale ~/Pictures/464cff1d-5a8a-4fea-841e-ed0dd281f0a9_rw_1920.png
 # exec_always --no-startup-id bash ~/.scripts/wallgifs /warehouse/wallpapers/gifs/pixels2.gif
 exec_always --no-startup-id bash ~/.config/polybar/launch.sh
