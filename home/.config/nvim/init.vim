@@ -122,7 +122,6 @@ nnoremap <C-k> <C-u>
 nnoremap <C-j> <C-d>
 
 set background=dark
-colo nord
 colo snazzy
 
 if (&t_Co > 2 || has("gui_running")) && !exists("syntax_on")
@@ -301,7 +300,7 @@ function! LightLineFilename()
 endfunction
 
 let g:lightline = {
-      \ 'colorscheme': 'nord',
+      \ 'colorscheme': 'snazzy',
       \ 'active': {
       \   'left': [ ['mode'], ['filename'] ],
       \   'right': [ [], ['cocstatus', 'lineinfo', 'icongitbranch'] ]
