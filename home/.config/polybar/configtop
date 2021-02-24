@@ -96,7 +96,7 @@ module-margin-right = 1
 enable-ipc = false
 wm-restack = i3
 
-font-0 = Input Mono Condensed:style=Regular:size=10;2
+font-0 = SF Mono Condensed:style=Regular:size=10;2
 font-1 = DejaVuSans:size=10;2
 font-2 = FontAwesome5Free:style=Solid:size=10;2
 font-3 = FontAwesome5Free:style=Regular:size=10;2
