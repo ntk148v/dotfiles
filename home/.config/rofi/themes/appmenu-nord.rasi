@@ -1,6 +1,6 @@
 configuration {
   show-icons: true;
-  font: "Input Mono Condensed Regular 10";
+  font: "SF Mono Powerline Regular 10";
   display-run: " ";
   display-drun: " ";
   display-window: " ";
