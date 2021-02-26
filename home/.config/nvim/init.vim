@@ -33,6 +33,7 @@ Plug 'tyrannicaltoucan/vim-quantum'
 Plug 'connorholyday/vim-snazzy'
 Plug 'pineapplegiant/spaceduck'
 Plug 'lifepillar/vim-colortemplate'
+Plug 'arzg/vim-colors-xcode'
 call plug#end()
 
 filetype plugin indent on
